@@ -14,6 +14,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skill.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arka056/DSArena/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Arka056/DSArena/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arka056/DSArena/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arka056/DSArena/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/Arka056/DSArena/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -22,5 +23,6 @@ A repository dedicated to mastering my Data Structures and Algorithms skill.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arka056/DSArena/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Arka056/DSArena/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arka056/DSArena/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arka056/DSArena/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/Arka056/DSArena/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
