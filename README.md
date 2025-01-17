@@ -27,4 +27,8 @@ A repository dedicated to mastering my Data Structures and Algorithms skill.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arka056/DSArena/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arka056/DSArena/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/Arka056/DSArena/tree/master/0792-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Arka056/DSArena/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
