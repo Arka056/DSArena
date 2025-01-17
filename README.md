@@ -16,6 +16,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skill.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arka056/DSArena/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arka056/DSArena/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arka056/DSArena/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Arka056/DSArena/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Arka056/DSArena/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -26,6 +27,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skill.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arka056/DSArena/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arka056/DSArena/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arka056/DSArena/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Arka056/DSArena/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Arka056/DSArena/tree/master/0792-binary-search) |
 ## Linked List
 |  |
