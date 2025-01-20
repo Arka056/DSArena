@@ -33,4 +33,16 @@ A repository dedicated to mastering my Data Structures and Algorithms skill.
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Arka056/DSArena/tree/master/0237-delete-node-in-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Arka056/DSArena/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Arka056/DSArena/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Arka056/DSArena/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
