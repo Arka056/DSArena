@@ -79,4 +79,12 @@ A repository dedicated to mastering my Data Structures and Algorithms skill.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Arka056/DSArena/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/Arka056/DSArena/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/Arka056/DSArena/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
