@@ -11,6 +11,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0008-string-to-integer-atoi](https://github.com/Arka056/DSArena/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Arka056/DSArena/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Arka056/DSArena/tree/master/0058-length-of-last-word) |
+| [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | ------- |
 | [0231-power-of-two](https://github.com/Arka056/DSArena/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Arka056/DSArena/tree/master/0326-power-of-three) |
+| [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Arka056/DSArena/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
@@ -122,4 +124,8 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Arka056/DSArena/tree/master/0015-3sum) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
