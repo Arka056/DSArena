@@ -11,6 +11,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0008-string-to-integer-atoi](https://github.com/Arka056/DSArena/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Arka056/DSArena/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Arka056/DSArena/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/Arka056/DSArena/tree/master/0205-isomorphic-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -81,6 +82,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arka056/DSArena/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/Arka056/DSArena/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Arka056/DSArena/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
