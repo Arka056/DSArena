@@ -23,6 +23,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0035-search-insert-position](https://github.com/Arka056/DSArena/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/Arka056/DSArena/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arka056/DSArena/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Arka056/DSArena/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Arka056/DSArena/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arka056/DSArena/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arka056/DSArena/tree/master/0162-find-peak-element) |
@@ -123,11 +124,13 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Arka056/DSArena/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Arka056/DSArena/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Arka056/DSArena/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Arka056/DSArena/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Arka056/DSArena/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
