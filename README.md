@@ -16,6 +16,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Arka056/DSArena/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Arka056/DSArena/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arka056/DSArena/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arka056/DSArena/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -31,6 +32,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Arka056/DSArena/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arka056/DSArena/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arka056/DSArena/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Arka056/DSArena/tree/master/0035-search-insert-position) |
@@ -130,4 +132,8 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Arka056/DSArena/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
