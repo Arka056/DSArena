@@ -42,6 +42,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arka056/DSArena/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arka056/DSArena/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arka056/DSArena/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/Arka056/DSArena/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arka056/DSArena/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Arka056/DSArena/tree/master/0792-binary-search) |
 ## Linked List
@@ -54,6 +55,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0069-sqrtx](https://github.com/Arka056/DSArena/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Arka056/DSArena/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Arka056/DSArena/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/Arka056/DSArena/tree/master/0367-valid-perfect-square) |
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Arka056/DSArena/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
