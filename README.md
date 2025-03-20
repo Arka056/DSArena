@@ -52,6 +52,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0203-remove-linked-list-elements](https://github.com/Arka056/DSArena/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Arka056/DSArena/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Arka056/DSArena/tree/master/0237-delete-node-in-a-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/Arka056/DSArena/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arka056/DSArena/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
@@ -147,6 +148,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0015-3sum](https://github.com/Arka056/DSArena/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Arka056/DSArena/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Arka056/DSArena/tree/master/0088-merge-sorted-array) |
+| [0908-middle-of-the-linked-list](https://github.com/Arka056/DSArena/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
