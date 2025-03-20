@@ -49,6 +49,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Arka056/DSArena/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/Arka056/DSArena/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Arka056/DSArena/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Arka056/DSArena/tree/master/0237-delete-node-in-a-linked-list) |
@@ -146,6 +147,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Arka056/DSArena/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Arka056/DSArena/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Arka056/DSArena/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Arka056/DSArena/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Arka056/DSArena/tree/master/0908-middle-of-the-linked-list) |
