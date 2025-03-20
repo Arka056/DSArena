@@ -57,6 +57,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0160-intersection-of-two-linked-lists](https://github.com/Arka056/DSArena/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Arka056/DSArena/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Arka056/DSArena/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Arka056/DSArena/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Arka056/DSArena/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Arka056/DSArena/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arka056/DSArena/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -85,6 +86,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0203-remove-linked-list-elements](https://github.com/Arka056/DSArena/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Arka056/DSArena/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Arka056/DSArena/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Arka056/DSArena/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Arka056/DSArena/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/Arka056/DSArena/tree/master/2050-count-good-numbers) |
 ## Stack
@@ -95,6 +97,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0094-binary-tree-inorder-traversal](https://github.com/Arka056/DSArena/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Arka056/DSArena/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Arka056/DSArena/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Arka056/DSArena/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0088-merge-sorted-array](https://github.com/Arka056/DSArena/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Arka056/DSArena/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arka056/DSArena/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Arka056/DSArena/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Arka056/DSArena/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
