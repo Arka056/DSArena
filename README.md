@@ -52,6 +52,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0002-add-two-numbers](https://github.com/Arka056/DSArena/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arka056/DSArena/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Arka056/DSArena/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Arka056/DSArena/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Arka056/DSArena/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arka056/DSArena/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Arka056/DSArena/tree/master/0203-remove-linked-list-elements) |
@@ -80,6 +81,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arka056/DSArena/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Arka056/DSArena/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Arka056/DSArena/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Arka056/DSArena/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Arka056/DSArena/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Arka056/DSArena/tree/master/0231-power-of-two) |
