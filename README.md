@@ -50,6 +50,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Arka056/DSArena/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Arka056/DSArena/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Arka056/DSArena/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arka056/DSArena/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
@@ -71,6 +72,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Arka056/DSArena/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Arka056/DSArena/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Arka056/DSArena/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Arka056/DSArena/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/Arka056/DSArena/tree/master/2050-count-good-numbers) |
