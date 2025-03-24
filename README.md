@@ -33,6 +33,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arka056/DSArena/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arka056/DSArena/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Arka056/DSArena/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arka056/DSArena/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Arka056/DSArena/tree/master/0792-binary-search) |
 ## Binary Search
@@ -123,6 +124,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0160-intersection-of-two-linked-lists](https://github.com/Arka056/DSArena/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Arka056/DSArena/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Arka056/DSArena/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0049-group-anagrams](https://github.com/Arka056/DSArena/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Arka056/DSArena/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Arka056/DSArena/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,8 +189,25 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arka056/DSArena/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Arka056/DSArena/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arka056/DSArena/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
