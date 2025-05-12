@@ -9,6 +9,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arka056/DSArena/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Arka056/DSArena/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Arka056/DSArena/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Arka056/DSArena/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Arka056/DSArena/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Arka056/DSArena/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Arka056/DSArena/tree/master/0058-length-of-last-word) |
@@ -219,4 +220,8 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arka056/DSArena/tree/master/0238-product-of-array-except-self) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Arka056/DSArena/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
