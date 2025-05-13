@@ -14,6 +14,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0049-group-anagrams](https://github.com/Arka056/DSArena/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Arka056/DSArena/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Arka056/DSArena/tree/master/0205-isomorphic-strings) |
+| [0412-fizz-buzz](https://github.com/Arka056/DSArena/tree/master/0412-fizz-buzz) |
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -80,6 +81,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0231-power-of-two](https://github.com/Arka056/DSArena/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Arka056/DSArena/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Arka056/DSArena/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Arka056/DSArena/tree/master/0412-fizz-buzz) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arka056/DSArena/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Arka056/DSArena/tree/master/2050-count-good-numbers) |
@@ -224,4 +226,8 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arka056/DSArena/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Arka056/DSArena/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
