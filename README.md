@@ -18,6 +18,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0412-fizz-buzz](https://github.com/Arka056/DSArena/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arka056/DSArena/tree/master/0424-longest-repeating-character-replacement) |
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
+| [3396-valid-word](https://github.com/Arka056/DSArena/tree/master/3396-valid-word) |
 ## Array
 |  |
 | ------- |
