@@ -37,6 +37,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arka056/DSArena/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arka056/DSArena/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Arka056/DSArena/tree/master/0118-pascals-triangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Arka056/DSArena/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arka056/DSArena/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arka056/DSArena/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Arka056/DSArena/tree/master/0217-contains-duplicate) |
@@ -86,6 +87,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arka056/DSArena/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Arka056/DSArena/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Arka056/DSArena/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Arka056/DSArena/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Arka056/DSArena/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Arka056/DSArena/tree/master/0367-valid-perfect-square) |
@@ -117,6 +119,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0020-valid-parentheses](https://github.com/Arka056/DSArena/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arka056/DSArena/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arka056/DSArena/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Arka056/DSArena/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Arka056/DSArena/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Arka056/DSArena/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Arka056/DSArena/tree/master/0234-palindrome-linked-list) |
