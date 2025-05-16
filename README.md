@@ -14,6 +14,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0049-group-anagrams](https://github.com/Arka056/DSArena/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Arka056/DSArena/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Arka056/DSArena/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Arka056/DSArena/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Arka056/DSArena/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arka056/DSArena/tree/master/0424-longest-repeating-character-replacement) |
@@ -136,6 +137,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0160-intersection-of-two-linked-lists](https://github.com/Arka056/DSArena/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Arka056/DSArena/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Arka056/DSArena/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Arka056/DSArena/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arka056/DSArena/tree/master/0424-longest-repeating-character-replacement) |
@@ -182,6 +184,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0049-group-anagrams](https://github.com/Arka056/DSArena/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Arka056/DSArena/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Arka056/DSArena/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Arka056/DSArena/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
 ## Two Pointers
