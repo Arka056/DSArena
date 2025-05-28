@@ -165,22 +165,26 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arka056/DSArena/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Arka056/DSArena/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/Arka056/DSArena/tree/master/0112-path-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/Arka056/DSArena/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arka056/DSArena/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Arka056/DSArena/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/Arka056/DSArena/tree/master/0112-path-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/Arka056/DSArena/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arka056/DSArena/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Arka056/DSArena/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/Arka056/DSArena/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Arka056/DSArena/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/Arka056/DSArena/tree/master/0112-path-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
