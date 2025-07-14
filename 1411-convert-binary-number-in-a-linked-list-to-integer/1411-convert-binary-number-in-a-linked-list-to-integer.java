@@ -17,7 +17,6 @@ class Solution {
             head = head.next;
         }
         int decimalValue = Integer.parseInt(str.toString(), 2);
-    
     return decimalValue;
     }
 }
