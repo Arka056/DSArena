@@ -57,6 +57,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0792-binary-search](https://github.com/Arka056/DSArena/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Arka056/DSArena/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/Arka056/DSArena/tree/master/1293-three-consecutive-odds) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Arka056/DSArena/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/Arka056/DSArena/tree/master/1646-kth-missing-positive-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Binary Search
@@ -163,6 +164,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arka056/DSArena/tree/master/0424-longest-repeating-character-replacement) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Arka056/DSArena/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Arka056/DSArena/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
