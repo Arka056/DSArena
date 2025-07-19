@@ -11,6 +11,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0008-string-to-integer-atoi](https://github.com/Arka056/DSArena/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Arka056/DSArena/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Arka056/DSArena/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arka056/DSArena/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Arka056/DSArena/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Arka056/DSArena/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Arka056/DSArena/tree/master/0205-isomorphic-strings) |
@@ -227,6 +228,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0011-container-with-most-water](https://github.com/Arka056/DSArena/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Arka056/DSArena/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arka056/DSArena/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arka056/DSArena/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Arka056/DSArena/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Arka056/DSArena/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arka056/DSArena/tree/master/0088-merge-sorted-array) |
@@ -289,4 +291,8 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Arka056/DSArena/tree/master/0074-search-a-2d-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arka056/DSArena/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
