@@ -21,6 +21,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Arka056/DSArena/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arka056/DSArena/tree/master/0424-longest-repeating-character-replacement) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Arka056/DSArena/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
 | [2886-faulty-keyboard](https://github.com/Arka056/DSArena/tree/master/2886-faulty-keyboard) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
