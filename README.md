@@ -58,6 +58,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0162-find-peak-element](https://github.com/Arka056/DSArena/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Arka056/DSArena/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arka056/DSArena/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arka056/DSArena/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/Arka056/DSArena/tree/master/0739-daily-temperatures) |
@@ -80,6 +81,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arka056/DSArena/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arka056/DSArena/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arka056/DSArena/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Arka056/DSArena/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arka056/DSArena/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Arka056/DSArena/tree/master/0792-binary-search) |
@@ -109,6 +111,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0069-sqrtx](https://github.com/Arka056/DSArena/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arka056/DSArena/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Arka056/DSArena/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Arka056/DSArena/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Arka056/DSArena/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Arka056/DSArena/tree/master/0412-fizz-buzz) |
@@ -122,6 +125,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0136-single-number](https://github.com/Arka056/DSArena/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Arka056/DSArena/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Arka056/DSArena/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
@@ -172,6 +176,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0205-isomorphic-strings](https://github.com/Arka056/DSArena/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Arka056/DSArena/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arka056/DSArena/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arka056/DSArena/tree/master/0424-longest-repeating-character-replacement) |
@@ -228,6 +233,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0088-merge-sorted-array](https://github.com/Arka056/DSArena/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Arka056/DSArena/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arka056/DSArena/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
 ## Two Pointers
