@@ -59,6 +59,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0217-contains-duplicate](https://github.com/Arka056/DSArena/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arka056/DSArena/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Arka056/DSArena/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arka056/DSArena/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/Arka056/DSArena/tree/master/0739-daily-temperatures) |
@@ -82,6 +83,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arka056/DSArena/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arka056/DSArena/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Arka056/DSArena/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Arka056/DSArena/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arka056/DSArena/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Arka056/DSArena/tree/master/0792-binary-search) |
@@ -126,6 +128,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0137-single-number-ii](https://github.com/Arka056/DSArena/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Arka056/DSArena/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Arka056/DSArena/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
@@ -258,6 +261,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0151-reverse-words-in-a-string](https://github.com/Arka056/DSArena/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arka056/DSArena/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Arka056/DSArena/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Arka056/DSArena/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Arka056/DSArena/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Arka056/DSArena/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
