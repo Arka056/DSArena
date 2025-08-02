@@ -64,6 +64,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0287-find-the-duplicate-number](https://github.com/Arka056/DSArena/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arka056/DSArena/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Arka056/DSArena/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/Arka056/DSArena/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Arka056/DSArena/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Arka056/DSArena/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -90,6 +91,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0367-valid-perfect-square](https://github.com/Arka056/DSArena/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arka056/DSArena/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Arka056/DSArena/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Arka056/DSArena/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Arka056/DSArena/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Arka056/DSArena/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Arka056/DSArena/tree/master/0907-koko-eating-bananas) |
@@ -198,6 +200,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arka056/DSArena/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arka056/DSArena/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/Arka056/DSArena/tree/master/0658-find-k-closest-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
+| [0658-find-k-closest-elements](https://github.com/Arka056/DSArena/tree/master/0658-find-k-closest-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -278,6 +282,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0344-reverse-string](https://github.com/Arka056/DSArena/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arka056/DSArena/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/Arka056/DSArena/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Arka056/DSArena/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Arka056/DSArena/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -303,6 +308,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Arka056/DSArena/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Arka056/DSArena/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
