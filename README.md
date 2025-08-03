@@ -121,6 +121,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0043-multiply-strings](https://github.com/Arka056/DSArena/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Arka056/DSArena/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arka056/DSArena/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/Arka056/DSArena/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Arka056/DSArena/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/Arka056/DSArena/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
