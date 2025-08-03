@@ -31,6 +31,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [2886-faulty-keyboard](https://github.com/Arka056/DSArena/tree/master/2886-faulty-keyboard) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3396-valid-word](https://github.com/Arka056/DSArena/tree/master/3396-valid-word) |
+| [3811-reverse-degree-of-a-string](https://github.com/Arka056/DSArena/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0043-multiply-strings](https://github.com/Arka056/DSArena/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Arka056/DSArena/tree/master/0412-fizz-buzz) |
 | [2886-faulty-keyboard](https://github.com/Arka056/DSArena/tree/master/2886-faulty-keyboard) |
+| [3811-reverse-degree-of-a-string](https://github.com/Arka056/DSArena/tree/master/3811-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
