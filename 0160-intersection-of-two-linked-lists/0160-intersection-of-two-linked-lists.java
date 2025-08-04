@@ -10,14 +10,12 @@
  * }
  */
 public class Solution {
-    public ListNode getIntersectionNode(ListNode headA, ListNode headB) 
-    {
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         ListNode a = headA;
         ListNode b = headB;
         int sizeA = 0;
         int sizeB = 0;
-        while(a!= null)
-        {
+        while(a!= null){
             sizeA ++;
             a = a.next;
         }
@@ -46,6 +44,6 @@ public class Solution {
             a = a.next;
             b = b.next;
         }
-        return b;
+        return a;
     }
 }
