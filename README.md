@@ -67,6 +67,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Arka056/DSArena/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/Arka056/DSArena/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arka056/DSArena/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Arka056/DSArena/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/Arka056/DSArena/tree/master/0739-daily-temperatures) |
@@ -93,6 +94,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Arka056/DSArena/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Arka056/DSArena/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/Arka056/DSArena/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arka056/DSArena/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Arka056/DSArena/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Arka056/DSArena/tree/master/0658-find-k-closest-elements) |
@@ -255,6 +257,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arka056/DSArena/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/Arka056/DSArena/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Arka056/DSArena/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Arka056/DSArena/tree/master/0410-split-array-largest-sum) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Sorting
@@ -299,6 +302,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0011-container-with-most-water](https://github.com/Arka056/DSArena/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arka056/DSArena/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Arka056/DSArena/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/Arka056/DSArena/tree/master/0410-split-array-largest-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Divide and Conquer
@@ -336,6 +340,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arka056/DSArena/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Arka056/DSArena/tree/master/0410-split-array-largest-sum) |
 ## Trie
 |  |
 | ------- |
