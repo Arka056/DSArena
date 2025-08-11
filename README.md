@@ -29,6 +29,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0812-rotate-string](https://github.com/Arka056/DSArena/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Arka056/DSArena/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Arka056/DSArena/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Arka056/DSArena/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
 | [2886-faulty-keyboard](https://github.com/Arka056/DSArena/tree/master/2886-faulty-keyboard) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -205,6 +206,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0424-longest-repeating-character-replacement](https://github.com/Arka056/DSArena/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Arka056/DSArena/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arka056/DSArena/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Arka056/DSArena/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Arka056/DSArena/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arka056/DSArena/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Arka056/DSArena/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Quickselect
 |  |
 | ------- |
