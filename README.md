@@ -70,6 +70,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0287-find-the-duplicate-number](https://github.com/Arka056/DSArena/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Arka056/DSArena/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/Arka056/DSArena/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arka056/DSArena/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Arka056/DSArena/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/Arka056/DSArena/tree/master/0739-daily-temperatures) |
