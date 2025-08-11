@@ -65,6 +65,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arka056/DSArena/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arka056/DSArena/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arka056/DSArena/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Arka056/DSArena/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arka056/DSArena/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arka056/DSArena/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
@@ -198,6 +199,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0141-linked-list-cycle](https://github.com/Arka056/DSArena/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arka056/DSArena/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arka056/DSArena/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Arka056/DSArena/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Arka056/DSArena/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Arka056/DSArena/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arka056/DSArena/tree/master/0242-valid-anagram) |
@@ -274,6 +276,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0049-group-anagrams](https://github.com/Arka056/DSArena/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Arka056/DSArena/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arka056/DSArena/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Arka056/DSArena/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arka056/DSArena/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arka056/DSArena/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
@@ -319,6 +322,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arka056/DSArena/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Arka056/DSArena/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Arka056/DSArena/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Arka056/DSArena/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Stack
@@ -341,6 +345,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Arka056/DSArena/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Arka056/DSArena/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arka056/DSArena/tree/master/1510-find-lucky-integer-in-an-array) |
