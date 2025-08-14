@@ -59,6 +59,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0088-merge-sorted-array](https://github.com/Arka056/DSArena/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Arka056/DSArena/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arka056/DSArena/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Arka056/DSArena/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Arka056/DSArena/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Arka056/DSArena/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Arka056/DSArena/tree/master/0137-single-number-ii) |
@@ -200,6 +201,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arka056/DSArena/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Arka056/DSArena/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Arka056/DSArena/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Arka056/DSArena/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Arka056/DSArena/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arka056/DSArena/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arka056/DSArena/tree/master/0160-intersection-of-two-linked-lists) |
@@ -392,4 +394,8 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/Arka056/DSArena/tree/master/0975-range-sum-of-bst) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Arka056/DSArena/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
