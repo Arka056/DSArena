@@ -140,6 +140,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0264-ugly-number-ii](https://github.com/Arka056/DSArena/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Arka056/DSArena/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Arka056/DSArena/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Arka056/DSArena/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Arka056/DSArena/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/Arka056/DSArena/tree/master/0633-sum-of-square-numbers) |
@@ -156,6 +157,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0231-power-of-two](https://github.com/Arka056/DSArena/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Arka056/DSArena/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Arka056/DSArena/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
@@ -168,6 +170,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0231-power-of-two](https://github.com/Arka056/DSArena/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Arka056/DSArena/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Arka056/DSArena/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Arka056/DSArena/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/Arka056/DSArena/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
