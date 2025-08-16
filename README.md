@@ -147,6 +147,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0412-fizz-buzz](https://github.com/Arka056/DSArena/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/Arka056/DSArena/tree/master/0633-sum-of-square-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arka056/DSArena/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/Arka056/DSArena/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Arka056/DSArena/tree/master/2050-count-good-numbers) |
 | [2722-prime-in-diagonal](https://github.com/Arka056/DSArena/tree/master/2722-prime-in-diagonal) |
@@ -331,6 +332,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arka056/DSArena/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Arka056/DSArena/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Arka056/DSArena/tree/master/0410-split-array-largest-sum) |
+| [1448-maximum-69-number](https://github.com/Arka056/DSArena/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Divide and Conquer
