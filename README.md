@@ -32,6 +32,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Arka056/DSArena/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Arka056/DSArena/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Arka056/DSArena/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2886-faulty-keyboard](https://github.com/Arka056/DSArena/tree/master/2886-faulty-keyboard) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3396-valid-word](https://github.com/Arka056/DSArena/tree/master/3396-valid-word) |
