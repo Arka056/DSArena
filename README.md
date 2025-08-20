@@ -53,6 +53,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0042-trapping-rain-water](https://github.com/Arka056/DSArena/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Arka056/DSArena/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Arka056/DSArena/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Arka056/DSArena/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Arka056/DSArena/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Arka056/DSArena/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Arka056/DSArena/tree/master/0075-sort-colors) |
@@ -400,6 +401,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Arka056/DSArena/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Arka056/DSArena/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Arka056/DSArena/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arka056/DSArena/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arka056/DSArena/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -408,6 +410,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arka056/DSArena/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Arka056/DSArena/tree/master/0074-search-a-2d-matrix) |
 | [2722-prime-in-diagonal](https://github.com/Arka056/DSArena/tree/master/2722-prime-in-diagonal) |
 ## String Matching
