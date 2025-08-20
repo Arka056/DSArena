@@ -92,6 +92,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arka056/DSArena/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arka056/DSArena/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/Arka056/DSArena/tree/master/1646-kth-missing-positive-number) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arka056/DSArena/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arka056/DSArena/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arka056/DSArena/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2722-prime-in-diagonal](https://github.com/Arka056/DSArena/tree/master/2722-prime-in-diagonal) |
@@ -237,6 +238,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arka056/DSArena/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arka056/DSArena/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Arka056/DSArena/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arka056/DSArena/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -383,6 +385,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0451-sort-characters-by-frequency](https://github.com/Arka056/DSArena/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arka056/DSArena/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Arka056/DSArena/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arka056/DSArena/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Quickselect
 |  |
 | ------- |
