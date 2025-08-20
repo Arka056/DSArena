@@ -87,6 +87,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0907-koko-eating-bananas](https://github.com/Arka056/DSArena/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/Arka056/DSArena/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Arka056/DSArena/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Arka056/DSArena/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arka056/DSArena/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arka056/DSArena/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/Arka056/DSArena/tree/master/1646-kth-missing-positive-number) |
@@ -152,6 +153,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0412-fizz-buzz](https://github.com/Arka056/DSArena/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/Arka056/DSArena/tree/master/0633-sum-of-square-numbers) |
 | [0867-new-21-game](https://github.com/Arka056/DSArena/tree/master/0867-new-21-game) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Arka056/DSArena/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arka056/DSArena/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Arka056/DSArena/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
@@ -433,4 +435,8 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arka056/DSArena/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/Arka056/DSArena/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
