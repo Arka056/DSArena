@@ -90,6 +90,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0978-valid-mountain-array](https://github.com/Arka056/DSArena/tree/master/0978-valid-mountain-array) |
 | [1293-three-consecutive-odds](https://github.com/Arka056/DSArena/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Arka056/DSArena/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1306-minimum-absolute-difference](https://github.com/Arka056/DSArena/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Arka056/DSArena/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arka056/DSArena/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arka056/DSArena/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -318,6 +319,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Arka056/DSArena/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Arka056/DSArena/tree/master/0658-find-k-closest-elements) |
+| [1306-minimum-absolute-difference](https://github.com/Arka056/DSArena/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arka056/DSArena/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
