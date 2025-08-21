@@ -84,6 +84,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0658-find-k-closest-elements](https://github.com/Arka056/DSArena/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/Arka056/DSArena/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Arka056/DSArena/tree/master/0792-binary-search) |
+| [0875-longest-mountain-in-array](https://github.com/Arka056/DSArena/tree/master/0875-longest-mountain-in-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Arka056/DSArena/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Arka056/DSArena/tree/master/0907-koko-eating-bananas) |
 | [0978-valid-mountain-array](https://github.com/Arka056/DSArena/tree/master/0978-valid-mountain-array) |
@@ -299,6 +300,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0392-is-subsequence](https://github.com/Arka056/DSArena/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Arka056/DSArena/tree/master/0410-split-array-largest-sum) |
 | [0867-new-21-game](https://github.com/Arka056/DSArena/tree/master/0867-new-21-game) |
+| [0875-longest-mountain-in-array](https://github.com/Arka056/DSArena/tree/master/0875-longest-mountain-in-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Sorting
@@ -340,6 +342,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0392-is-subsequence](https://github.com/Arka056/DSArena/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Arka056/DSArena/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Arka056/DSArena/tree/master/0658-find-k-closest-elements) |
+| [0875-longest-mountain-in-array](https://github.com/Arka056/DSArena/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Arka056/DSArena/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arka056/DSArena/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -446,4 +449,8 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/Arka056/DSArena/tree/master/1395-minimum-time-visiting-all-points) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/Arka056/DSArena/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
