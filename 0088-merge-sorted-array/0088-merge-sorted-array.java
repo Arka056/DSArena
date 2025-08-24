@@ -1,11 +1,6 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int k = 0, i = 0, j = 0;
-        // for(int s = 0; s < m; s++){
-        //     if(nums1[s] == 0){
-                
-        //     }
-        // }
         int [] arr = new int[m+n];
         while(i < m && j < n){
             if(nums1[i] <= nums2[j]){
