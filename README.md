@@ -51,6 +51,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arka056/DSArena/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Arka056/DSArena/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Arka056/DSArena/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Arka056/DSArena/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Arka056/DSArena/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Arka056/DSArena/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Arka056/DSArena/tree/master/0054-spiral-matrix) |
@@ -258,6 +259,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Arka056/DSArena/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Arka056/DSArena/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arka056/DSArena/tree/master/0090-subsets-ii) |
 ## Tree
