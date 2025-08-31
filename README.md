@@ -262,6 +262,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | ------- |
 | [0046-permutations](https://github.com/Arka056/DSArena/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Arka056/DSArena/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Arka056/DSArena/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Arka056/DSArena/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arka056/DSArena/tree/master/0090-subsets-ii) |
 ## Tree
