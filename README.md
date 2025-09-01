@@ -52,6 +52,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0035-search-insert-position](https://github.com/Arka056/DSArena/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Arka056/DSArena/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Arka056/DSArena/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Arka056/DSArena/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Arka056/DSArena/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Arka056/DSArena/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Arka056/DSArena/tree/master/0049-group-anagrams) |
@@ -265,6 +266,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | ------- |
 | [0037-sudoku-solver](https://github.com/Arka056/DSArena/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Arka056/DSArena/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Arka056/DSArena/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Arka056/DSArena/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Arka056/DSArena/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Arka056/DSArena/tree/master/0052-n-queens-ii) |
