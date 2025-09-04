@@ -287,6 +287,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0112-path-sum](https://github.com/Arka056/DSArena/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arka056/DSArena/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arka056/DSArena/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Arka056/DSArena/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Arka056/DSArena/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/Arka056/DSArena/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
@@ -301,6 +302,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0112-path-sum](https://github.com/Arka056/DSArena/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arka056/DSArena/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arka056/DSArena/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Arka056/DSArena/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Arka056/DSArena/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/Arka056/DSArena/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -314,6 +316,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0112-path-sum](https://github.com/Arka056/DSArena/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arka056/DSArena/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arka056/DSArena/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Arka056/DSArena/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Arka056/DSArena/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
