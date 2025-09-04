@@ -281,6 +281,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0094-binary-tree-inorder-traversal](https://github.com/Arka056/DSArena/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Arka056/DSArena/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Arka056/DSArena/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Arka056/DSArena/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arka056/DSArena/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Arka056/DSArena/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Arka056/DSArena/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -296,6 +297,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0094-binary-tree-inorder-traversal](https://github.com/Arka056/DSArena/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Arka056/DSArena/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Arka056/DSArena/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Arka056/DSArena/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arka056/DSArena/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Arka056/DSArena/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Arka056/DSArena/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -323,6 +325,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | ------- |
 | [0100-same-tree](https://github.com/Arka056/DSArena/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Arka056/DSArena/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Arka056/DSArena/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arka056/DSArena/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Arka056/DSArena/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Arka056/DSArena/tree/master/0112-path-sum) |
