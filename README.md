@@ -172,6 +172,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Arka056/DSArena/tree/master/2050-count-good-numbers) |
 | [2722-prime-in-diagonal](https://github.com/Arka056/DSArena/tree/master/2722-prime-in-diagonal) |
+| [3830-find-closest-person](https://github.com/Arka056/DSArena/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
