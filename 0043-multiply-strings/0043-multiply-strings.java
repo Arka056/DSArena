@@ -5,6 +5,5 @@ class Solution {
         BigInteger bg2 = new BigInteger(num2);
         BigInteger bg3 = bg1.multiply(bg2);
         return bg3.toString();
-        // return s;
     }
 }
