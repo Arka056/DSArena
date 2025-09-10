@@ -154,6 +154,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arka056/DSArena/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Arka056/DSArena/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Arka056/DSArena/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Arka056/DSArena/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Arka056/DSArena/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arka056/DSArena/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -179,6 +180,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Arka056/DSArena/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Arka056/DSArena/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arka056/DSArena/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Arka056/DSArena/tree/master/0136-single-number) |
