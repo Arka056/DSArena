@@ -38,6 +38,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [2887-sort-vowels-in-a-string](https://github.com/Arka056/DSArena/tree/master/2887-sort-vowels-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3396-valid-word](https://github.com/Arka056/DSArena/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/Arka056/DSArena/tree/master/3462-vowels-game-in-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/Arka056/DSArena/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
 |  |
@@ -179,6 +180,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Arka056/DSArena/tree/master/2050-count-good-numbers) |
 | [2722-prime-in-diagonal](https://github.com/Arka056/DSArena/tree/master/2722-prime-in-diagonal) |
+| [3462-vowels-game-in-a-string](https://github.com/Arka056/DSArena/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/Arka056/DSArena/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
@@ -510,4 +512,12 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/Arka056/DSArena/tree/master/0875-longest-mountain-in-array) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Arka056/DSArena/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Arka056/DSArena/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
