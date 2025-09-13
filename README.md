@@ -87,6 +87,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0287-find-the-duplicate-number](https://github.com/Arka056/DSArena/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Arka056/DSArena/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Arka056/DSArena/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Arka056/DSArena/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arka056/DSArena/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arka056/DSArena/tree/master/0485-max-consecutive-ones) |
@@ -130,6 +131,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Arka056/DSArena/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arka056/DSArena/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Arka056/DSArena/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Arka056/DSArena/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Arka056/DSArena/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arka056/DSArena/tree/master/0540-single-element-in-a-sorted-array) |
@@ -260,6 +262,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Arka056/DSArena/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Arka056/DSArena/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arka056/DSArena/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arka056/DSArena/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -373,6 +376,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Arka056/DSArena/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Arka056/DSArena/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Arka056/DSArena/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Arka056/DSArena/tree/master/0658-find-k-closest-elements) |
@@ -401,6 +405,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0344-reverse-string](https://github.com/Arka056/DSArena/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arka056/DSArena/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Arka056/DSArena/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Arka056/DSArena/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Arka056/DSArena/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Arka056/DSArena/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Arka056/DSArena/tree/master/0658-find-k-closest-elements) |
