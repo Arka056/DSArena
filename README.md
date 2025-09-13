@@ -40,6 +40,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [3396-valid-word](https://github.com/Arka056/DSArena/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/Arka056/DSArena/tree/master/3462-vowels-game-in-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/Arka056/DSArena/tree/master/3811-reverse-degree-of-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arka056/DSArena/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arka056/DSArena/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Arka056/DSArena/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arka056/DSArena/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arka056/DSArena/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -446,6 +448,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arka056/DSArena/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Arka056/DSArena/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arka056/DSArena/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arka056/DSArena/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
 | ------- |
