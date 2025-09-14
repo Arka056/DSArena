@@ -28,6 +28,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0424-longest-repeating-character-replacement](https://github.com/Arka056/DSArena/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Arka056/DSArena/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Arka056/DSArena/tree/master/0812-rotate-string) |
+| [1006-vowel-spellchecker](https://github.com/Arka056/DSArena/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/Arka056/DSArena/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Arka056/DSArena/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Arka056/DSArena/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -100,6 +101,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0882-peak-index-in-a-mountain-array](https://github.com/Arka056/DSArena/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Arka056/DSArena/tree/master/0907-koko-eating-bananas) |
 | [0978-valid-mountain-array](https://github.com/Arka056/DSArena/tree/master/0978-valid-mountain-array) |
+| [1006-vowel-spellchecker](https://github.com/Arka056/DSArena/tree/master/1006-vowel-spellchecker) |
 | [1293-three-consecutive-odds](https://github.com/Arka056/DSArena/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Arka056/DSArena/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1306-minimum-absolute-difference](https://github.com/Arka056/DSArena/tree/master/1306-minimum-absolute-difference) |
@@ -268,6 +270,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arka056/DSArena/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Arka056/DSArena/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Arka056/DSArena/tree/master/0560-subarray-sum-equals-k) |
+| [1006-vowel-spellchecker](https://github.com/Arka056/DSArena/tree/master/1006-vowel-spellchecker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arka056/DSArena/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arka056/DSArena/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Arka056/DSArena/tree/master/1890-sum-of-beauty-of-all-substrings) |
