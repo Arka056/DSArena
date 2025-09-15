@@ -539,5 +539,6 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 ## Database
 |  |
 | ------- |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/Arka056/DSArena/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Arka056/DSArena/tree/master/1664-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
