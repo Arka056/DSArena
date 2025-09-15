@@ -536,4 +536,8 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Arka056/DSArena/tree/master/3462-vowels-game-in-a-string) |
+## Database
+|  |
+| ------- |
+| [1664-find-users-with-valid-e-mails](https://github.com/Arka056/DSArena/tree/master/1664-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
