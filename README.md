@@ -30,6 +30,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0812-rotate-string](https://github.com/Arka056/DSArena/tree/master/0812-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/Arka056/DSArena/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/Arka056/DSArena/tree/master/1078-remove-outermost-parentheses) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Arka056/DSArena/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Arka056/DSArena/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Arka056/DSArena/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
@@ -271,6 +272,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0451-sort-characters-by-frequency](https://github.com/Arka056/DSArena/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Arka056/DSArena/tree/master/0560-subarray-sum-equals-k) |
 | [1006-vowel-spellchecker](https://github.com/Arka056/DSArena/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Arka056/DSArena/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arka056/DSArena/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arka056/DSArena/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Arka056/DSArena/tree/master/1890-sum-of-beauty-of-all-substrings) |
