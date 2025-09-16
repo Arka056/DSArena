@@ -115,6 +115,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arka056/DSArena/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arka056/DSArena/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arka056/DSArena/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Arka056/DSArena/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2722-prime-in-diagonal](https://github.com/Arka056/DSArena/tree/master/2722-prime-in-diagonal) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -187,6 +188,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [1448-maximum-69-number](https://github.com/Arka056/DSArena/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Arka056/DSArena/tree/master/2050-count-good-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Arka056/DSArena/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2722-prime-in-diagonal](https://github.com/Arka056/DSArena/tree/master/2722-prime-in-diagonal) |
 | [3462-vowels-game-in-a-string](https://github.com/Arka056/DSArena/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/Arka056/DSArena/tree/master/3830-find-closest-person) |
@@ -233,6 +235,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0739-daily-temperatures](https://github.com/Arka056/DSArena/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/Arka056/DSArena/tree/master/1078-remove-outermost-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Arka056/DSArena/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Arka056/DSArena/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Design
 |  |
 | ------- |
@@ -513,6 +516,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 ## Number Theory
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Arka056/DSArena/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2722-prime-in-diagonal](https://github.com/Arka056/DSArena/tree/master/2722-prime-in-diagonal) |
 ## Probability and Statistics
 |  |
