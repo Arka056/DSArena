@@ -42,6 +42,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3396-valid-word](https://github.com/Arka056/DSArena/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/Arka056/DSArena/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/Arka056/DSArena/tree/master/3797-design-spreadsheet) |
 | [3811-reverse-degree-of-a-string](https://github.com/Arka056/DSArena/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arka056/DSArena/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
@@ -121,6 +122,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [2722-prime-in-diagonal](https://github.com/Arka056/DSArena/tree/master/2722-prime-in-diagonal) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3797-design-spreadsheet](https://github.com/Arka056/DSArena/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0232-implement-queue-using-stacks](https://github.com/Arka056/DSArena/tree/master/0232-implement-queue-using-stacks) |
 | [2429-design-a-food-rating-system](https://github.com/Arka056/DSArena/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Arka056/DSArena/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Arka056/DSArena/tree/master/3797-design-spreadsheet) |
 ## Queue
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arka056/DSArena/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2429-design-a-food-rating-system](https://github.com/Arka056/DSArena/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Arka056/DSArena/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Arka056/DSArena/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arka056/DSArena/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -508,6 +512,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0054-spiral-matrix](https://github.com/Arka056/DSArena/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Arka056/DSArena/tree/master/0074-search-a-2d-matrix) |
 | [2722-prime-in-diagonal](https://github.com/Arka056/DSArena/tree/master/2722-prime-in-diagonal) |
+| [3797-design-spreadsheet](https://github.com/Arka056/DSArena/tree/master/3797-design-spreadsheet) |
 ## String Matching
 |  |
 | ------- |
