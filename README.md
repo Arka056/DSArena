@@ -123,6 +123,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3797-design-spreadsheet](https://github.com/Arka056/DSArena/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Arka056/DSArena/tree/master/3827-implement-router) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0907-koko-eating-bananas](https://github.com/Arka056/DSArena/tree/master/0907-koko-eating-bananas) |
 | [1646-kth-missing-positive-number](https://github.com/Arka056/DSArena/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arka056/DSArena/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3827-implement-router](https://github.com/Arka056/DSArena/tree/master/3827-implement-router) |
 ## Linked List
 |  |
 | ------- |
@@ -249,11 +251,13 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [2429-design-a-food-rating-system](https://github.com/Arka056/DSArena/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Arka056/DSArena/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Arka056/DSArena/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Arka056/DSArena/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Arka056/DSArena/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Arka056/DSArena/tree/master/0232-implement-queue-using-stacks) |
+| [3827-implement-router](https://github.com/Arka056/DSArena/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -290,6 +294,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [2429-design-a-food-rating-system](https://github.com/Arka056/DSArena/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Arka056/DSArena/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Arka056/DSArena/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Arka056/DSArena/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arka056/DSArena/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -565,4 +570,5 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Arka056/DSArena/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Arka056/DSArena/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/Arka056/DSArena/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
