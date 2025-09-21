@@ -25,6 +25,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Arka056/DSArena/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Arka056/DSArena/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Arka056/DSArena/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arka056/DSArena/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Arka056/DSArena/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Arka056/DSArena/tree/master/0812-rotate-string) |
@@ -185,6 +186,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0342-power-of-four](https://github.com/Arka056/DSArena/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Arka056/DSArena/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Arka056/DSArena/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Arka056/DSArena/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/Arka056/DSArena/tree/master/0633-sum-of-square-numbers) |
 | [0867-new-21-game](https://github.com/Arka056/DSArena/tree/master/0867-new-21-game) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Arka056/DSArena/tree/master/1395-minimum-time-visiting-all-points) |
@@ -506,6 +508,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0043-multiply-strings](https://github.com/Arka056/DSArena/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Arka056/DSArena/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Arka056/DSArena/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Arka056/DSArena/tree/master/0415-add-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arka056/DSArena/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arka056/DSArena/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2886-faulty-keyboard](https://github.com/Arka056/DSArena/tree/master/2886-faulty-keyboard) |
