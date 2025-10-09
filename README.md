@@ -29,6 +29,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0424-longest-repeating-character-replacement](https://github.com/Arka056/DSArena/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Arka056/DSArena/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Arka056/DSArena/tree/master/0812-rotate-string) |
+| [0961-long-pressed-name](https://github.com/Arka056/DSArena/tree/master/0961-long-pressed-name) |
 | [1006-vowel-spellchecker](https://github.com/Arka056/DSArena/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/Arka056/DSArena/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arka056/DSArena/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -440,6 +441,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0658-find-k-closest-elements](https://github.com/Arka056/DSArena/tree/master/0658-find-k-closest-elements) |
 | [0875-longest-mountain-in-array](https://github.com/Arka056/DSArena/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Arka056/DSArena/tree/master/0908-middle-of-the-linked-list) |
+| [0961-long-pressed-name](https://github.com/Arka056/DSArena/tree/master/0961-long-pressed-name) |
 | [1168-duplicate-zeros](https://github.com/Arka056/DSArena/tree/master/1168-duplicate-zeros) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arka056/DSArena/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
