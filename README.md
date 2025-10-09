@@ -106,6 +106,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0907-koko-eating-bananas](https://github.com/Arka056/DSArena/tree/master/0907-koko-eating-bananas) |
 | [0978-valid-mountain-array](https://github.com/Arka056/DSArena/tree/master/0978-valid-mountain-array) |
 | [1006-vowel-spellchecker](https://github.com/Arka056/DSArena/tree/master/1006-vowel-spellchecker) |
+| [1168-duplicate-zeros](https://github.com/Arka056/DSArena/tree/master/1168-duplicate-zeros) |
 | [1293-three-consecutive-odds](https://github.com/Arka056/DSArena/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Arka056/DSArena/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1306-minimum-absolute-difference](https://github.com/Arka056/DSArena/tree/master/1306-minimum-absolute-difference) |
@@ -439,6 +440,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0658-find-k-closest-elements](https://github.com/Arka056/DSArena/tree/master/0658-find-k-closest-elements) |
 | [0875-longest-mountain-in-array](https://github.com/Arka056/DSArena/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Arka056/DSArena/tree/master/0908-middle-of-the-linked-list) |
+| [1168-duplicate-zeros](https://github.com/Arka056/DSArena/tree/master/1168-duplicate-zeros) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arka056/DSArena/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
