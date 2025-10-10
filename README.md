@@ -103,6 +103,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0540-single-element-in-a-sorted-array](https://github.com/Arka056/DSArena/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arka056/DSArena/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Arka056/DSArena/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/Arka056/DSArena/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Arka056/DSArena/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Arka056/DSArena/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/Arka056/DSArena/tree/master/0875-longest-mountain-in-array) |
@@ -247,6 +248,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0225-implement-stack-using-queues](https://github.com/Arka056/DSArena/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Arka056/DSArena/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Arka056/DSArena/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Arka056/DSArena/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Arka056/DSArena/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/Arka056/DSArena/tree/master/1078-remove-outermost-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Arka056/DSArena/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -524,6 +526,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0054-spiral-matrix](https://github.com/Arka056/DSArena/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Arka056/DSArena/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Arka056/DSArena/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Arka056/DSArena/tree/master/0682-baseball-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arka056/DSArena/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arka056/DSArena/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2886-faulty-keyboard](https://github.com/Arka056/DSArena/tree/master/2886-faulty-keyboard) |
