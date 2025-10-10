@@ -18,6 +18,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0049-group-anagrams](https://github.com/Arka056/DSArena/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Arka056/DSArena/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Arka056/DSArena/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Arka056/DSArena/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Arka056/DSArena/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Arka056/DSArena/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Arka056/DSArena/tree/master/0344-reverse-string) |
@@ -86,6 +87,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arka056/DSArena/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arka056/DSArena/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Arka056/DSArena/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Arka056/DSArena/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arka056/DSArena/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Arka056/DSArena/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arka056/DSArena/tree/master/0219-contains-duplicate-ii) |
@@ -403,6 +405,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0075-sort-colors](https://github.com/Arka056/DSArena/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arka056/DSArena/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Arka056/DSArena/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Arka056/DSArena/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Arka056/DSArena/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arka056/DSArena/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
@@ -453,6 +456,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0011-container-with-most-water](https://github.com/Arka056/DSArena/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arka056/DSArena/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Arka056/DSArena/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/Arka056/DSArena/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Arka056/DSArena/tree/master/0410-split-array-largest-sum) |
 | [1448-maximum-69-number](https://github.com/Arka056/DSArena/tree/master/1448-maximum-69-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arka056/DSArena/tree/master/1966-frequency-of-the-most-frequent-element) |
