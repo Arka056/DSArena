@@ -17,6 +17,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0043-multiply-strings](https://github.com/Arka056/DSArena/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Arka056/DSArena/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Arka056/DSArena/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/Arka056/DSArena/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Arka056/DSArena/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Arka056/DSArena/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Arka056/DSArena/tree/master/0205-isomorphic-strings) |
@@ -330,6 +331,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0052-n-queens-ii](https://github.com/Arka056/DSArena/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Arka056/DSArena/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arka056/DSArena/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Arka056/DSArena/tree/master/0131-palindrome-partitioning) |
 ## Tree
 |  |
 | ------- |
@@ -392,6 +394,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0053-maximum-subarray](https://github.com/Arka056/DSArena/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Arka056/DSArena/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arka056/DSArena/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Arka056/DSArena/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/Arka056/DSArena/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Arka056/DSArena/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Arka056/DSArena/tree/master/0410-split-array-largest-sum) |
