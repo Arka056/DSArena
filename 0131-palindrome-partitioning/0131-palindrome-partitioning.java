@@ -1,17 +1,13 @@
 class Solution {
     private boolean isPalindrome(String s){
         if(s.length() == 1) return true;
-        char[]ch = s.toCharArray();
-        String t = s;
-        int i = 0, j =  s.length()-1;
-        while(i<=j){
-            char temp = ch[i];
-            ch[i] = ch[j];
-            ch[j] = temp;
+        int i = 0, j = s.length() - 1;
+        while (i < j) {
+            if (s.charAt(i) != s.charAt(j)) return false;
             i++;
             j--;
         }
-        return t.equals(new String(ch));
+        return true;
     }
     private void getAllPal(String s, List<String> st, List<List<String>> list){
         if(s.length() == 0){
