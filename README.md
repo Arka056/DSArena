@@ -133,6 +133,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [2722-prime-in-diagonal](https://github.com/Arka056/DSArena/tree/master/2722-prime-in-diagonal) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Arka056/DSArena/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Arka056/DSArena/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3797-design-spreadsheet](https://github.com/Arka056/DSArena/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Arka056/DSArena/tree/master/3827-implement-router) |
 ## Binary Search
