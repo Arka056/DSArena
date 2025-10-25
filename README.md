@@ -208,6 +208,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Arka056/DSArena/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Arka056/DSArena/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/Arka056/DSArena/tree/master/1585-the-kth-factor-of-n) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Arka056/DSArena/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Arka056/DSArena/tree/master/2050-count-good-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Arka056/DSArena/tree/master/2307-replace-non-coprime-numbers-in-array) |
