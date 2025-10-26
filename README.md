@@ -190,6 +190,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0029-divide-two-integers](https://github.com/Arka056/DSArena/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Arka056/DSArena/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Arka056/DSArena/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Arka056/DSArena/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arka056/DSArena/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Arka056/DSArena/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Arka056/DSArena/tree/master/0231-power-of-two) |
@@ -399,6 +400,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0005-longest-palindromic-substring](https://github.com/Arka056/DSArena/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Arka056/DSArena/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Arka056/DSArena/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Arka056/DSArena/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Arka056/DSArena/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arka056/DSArena/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Arka056/DSArena/tree/master/0131-palindrome-partitioning) |
@@ -605,4 +607,8 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [2429-design-a-food-rating-system](https://github.com/Arka056/DSArena/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Arka056/DSArena/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Arka056/DSArena/tree/master/3827-implement-router) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arka056/DSArena/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
