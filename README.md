@@ -22,6 +22,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0179-largest-number](https://github.com/Arka056/DSArena/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Arka056/DSArena/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Arka056/DSArena/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Arka056/DSArena/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Arka056/DSArena/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arka056/DSArena/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
@@ -341,6 +342,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0078-subsets](https://github.com/Arka056/DSArena/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arka056/DSArena/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Arka056/DSArena/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/Arka056/DSArena/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0112-path-sum](https://github.com/Arka056/DSArena/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arka056/DSArena/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arka056/DSArena/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Arka056/DSArena/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Arka056/DSArena/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Arka056/DSArena/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/Arka056/DSArena/tree/master/2384-root-equals-sum-of-children) |
@@ -370,6 +373,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0112-path-sum](https://github.com/Arka056/DSArena/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arka056/DSArena/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arka056/DSArena/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Arka056/DSArena/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Arka056/DSArena/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Arka056/DSArena/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/Arka056/DSArena/tree/master/2384-root-equals-sum-of-children) |
@@ -384,6 +388,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0112-path-sum](https://github.com/Arka056/DSArena/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arka056/DSArena/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arka056/DSArena/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Arka056/DSArena/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Arka056/DSArena/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Arka056/DSArena/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
