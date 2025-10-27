@@ -28,6 +28,7 @@ class Solution {
         return last;
     }
     public int[] searchRange(int[] arr, int k) {
+        if(k == 0 && arr.length == 0) return new int[]{-1, -1};
         int first = firstOccurrence(arr, k);
         if(first == -1) return new int[]{-1, -1};
         int last = lastOccurrence(arr, k);
