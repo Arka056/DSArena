@@ -98,6 +98,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0238-product-of-array-except-self](https://github.com/Arka056/DSArena/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Arka056/DSArena/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/Arka056/DSArena/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Arka056/DSArena/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Arka056/DSArena/tree/master/0349-intersection-of-two-arrays) |
@@ -154,6 +155,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0162-find-peak-element](https://github.com/Arka056/DSArena/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arka056/DSArena/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Arka056/DSArena/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/Arka056/DSArena/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Arka056/DSArena/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arka056/DSArena/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arka056/DSArena/tree/master/0350-intersection-of-two-arrays-ii) |
