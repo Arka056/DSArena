@@ -69,6 +69,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0040-combination-sum-ii](https://github.com/Arka056/DSArena/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Arka056/DSArena/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Arka056/DSArena/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Arka056/DSArena/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Arka056/DSArena/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Arka056/DSArena/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Arka056/DSArena/tree/master/0053-maximum-subarray) |
@@ -194,6 +195,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0013-roman-to-integer](https://github.com/Arka056/DSArena/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Arka056/DSArena/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Arka056/DSArena/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Arka056/DSArena/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Arka056/DSArena/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Arka056/DSArena/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arka056/DSArena/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -561,6 +563,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Arka056/DSArena/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Arka056/DSArena/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Arka056/DSArena/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Arka056/DSArena/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Arka056/DSArena/tree/master/0074-search-a-2d-matrix) |
