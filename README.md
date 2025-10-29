@@ -217,6 +217,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Arka056/DSArena/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2722-prime-in-diagonal](https://github.com/Arka056/DSArena/tree/master/2722-prime-in-diagonal) |
 | [3462-vowels-game-in-a-string](https://github.com/Arka056/DSArena/tree/master/3462-vowels-game-in-a-string) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Arka056/DSArena/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/Arka056/DSArena/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
@@ -232,6 +233,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0287-find-the-duplicate-number](https://github.com/Arka056/DSArena/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Arka056/DSArena/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Arka056/DSArena/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
