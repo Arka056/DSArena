@@ -26,6 +26,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0344-reverse-string](https://github.com/Arka056/DSArena/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arka056/DSArena/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Arka056/DSArena/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Arka056/DSArena/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Arka056/DSArena/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Arka056/DSArena/tree/master/0412-fizz-buzz) |
@@ -289,6 +290,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Arka056/DSArena/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Arka056/DSArena/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Arka056/DSArena/tree/master/0387-first-unique-character-in-a-string) |
 | [3827-implement-router](https://github.com/Arka056/DSArena/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
@@ -313,6 +315,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0349-intersection-of-two-arrays](https://github.com/Arka056/DSArena/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arka056/DSArena/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Arka056/DSArena/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Arka056/DSArena/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arka056/DSArena/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arka056/DSArena/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -533,6 +536,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0169-majority-element](https://github.com/Arka056/DSArena/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Arka056/DSArena/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Arka056/DSArena/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Arka056/DSArena/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arka056/DSArena/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Arka056/DSArena/tree/master/1890-sum-of-beauty-of-all-substrings) |
