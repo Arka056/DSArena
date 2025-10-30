@@ -31,6 +31,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0415-add-strings](https://github.com/Arka056/DSArena/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arka056/DSArena/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Arka056/DSArena/tree/master/0451-sort-characters-by-frequency) |
+| [0782-jewels-and-stones](https://github.com/Arka056/DSArena/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Arka056/DSArena/tree/master/0812-rotate-string) |
 | [0961-long-pressed-name](https://github.com/Arka056/DSArena/tree/master/0961-long-pressed-name) |
 | [1006-vowel-spellchecker](https://github.com/Arka056/DSArena/tree/master/1006-vowel-spellchecker) |
@@ -315,6 +316,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arka056/DSArena/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Arka056/DSArena/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Arka056/DSArena/tree/master/0560-subarray-sum-equals-k) |
+| [0782-jewels-and-stones](https://github.com/Arka056/DSArena/tree/master/0782-jewels-and-stones) |
 | [1006-vowel-spellchecker](https://github.com/Arka056/DSArena/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arka056/DSArena/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arka056/DSArena/tree/master/1353-find-resultant-array-after-removing-anagrams) |
