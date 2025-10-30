@@ -118,6 +118,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0907-koko-eating-bananas](https://github.com/Arka056/DSArena/tree/master/0907-koko-eating-bananas) |
 | [0978-valid-mountain-array](https://github.com/Arka056/DSArena/tree/master/0978-valid-mountain-array) |
 | [1006-vowel-spellchecker](https://github.com/Arka056/DSArena/tree/master/1006-vowel-spellchecker) |
+| [1127-last-stone-weight](https://github.com/Arka056/DSArena/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/Arka056/DSArena/tree/master/1168-duplicate-zeros) |
 | [1293-three-consecutive-odds](https://github.com/Arka056/DSArena/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Arka056/DSArena/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -513,6 +514,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0347-top-k-frequent-elements](https://github.com/Arka056/DSArena/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Arka056/DSArena/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Arka056/DSArena/tree/master/0658-find-k-closest-elements) |
+| [1127-last-stone-weight](https://github.com/Arka056/DSArena/tree/master/1127-last-stone-weight) |
 | [2023-design-movie-rental-system](https://github.com/Arka056/DSArena/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Arka056/DSArena/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Arka056/DSArena/tree/master/3678-design-task-manager) |
