@@ -45,6 +45,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arka056/DSArena/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Arka056/DSArena/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/Arka056/DSArena/tree/master/2427-first-letter-to-appear-twice) |
 | [2429-design-a-food-rating-system](https://github.com/Arka056/DSArena/tree/master/2429-design-a-food-rating-system) |
 | [2886-faulty-keyboard](https://github.com/Arka056/DSArena/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/Arka056/DSArena/tree/master/2887-sort-vowels-in-a-string) |
@@ -242,6 +243,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0287-find-the-duplicate-number](https://github.com/Arka056/DSArena/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Arka056/DSArena/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Arka056/DSArena/tree/master/0389-find-the-difference) |
+| [2427-first-letter-to-appear-twice](https://github.com/Arka056/DSArena/tree/master/2427-first-letter-to-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Arka056/DSArena/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
@@ -330,6 +332,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Arka056/DSArena/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2023-design-movie-rental-system](https://github.com/Arka056/DSArena/tree/master/2023-design-movie-rental-system) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arka056/DSArena/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2427-first-letter-to-appear-twice](https://github.com/Arka056/DSArena/tree/master/2427-first-letter-to-appear-twice) |
 | [2429-design-a-food-rating-system](https://github.com/Arka056/DSArena/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Arka056/DSArena/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Arka056/DSArena/tree/master/3797-design-spreadsheet) |
@@ -541,6 +544,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arka056/DSArena/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Arka056/DSArena/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arka056/DSArena/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2427-first-letter-to-appear-twice](https://github.com/Arka056/DSArena/tree/master/2427-first-letter-to-appear-twice) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arka056/DSArena/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
