@@ -132,6 +132,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Arka056/DSArena/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arka056/DSArena/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arka056/DSArena/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Arka056/DSArena/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/Arka056/DSArena/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arka056/DSArena/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2023-design-movie-rental-system](https://github.com/Arka056/DSArena/tree/master/2023-design-movie-rental-system) |
@@ -458,6 +459,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [1306-minimum-absolute-difference](https://github.com/Arka056/DSArena/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arka056/DSArena/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arka056/DSArena/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Arka056/DSArena/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arka056/DSArena/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2887-sort-vowels-in-a-string](https://github.com/Arka056/DSArena/tree/master/2887-sort-vowels-in-a-string) |
 ## Two Pointers
@@ -525,6 +527,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0451-sort-characters-by-frequency](https://github.com/Arka056/DSArena/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Arka056/DSArena/tree/master/0658-find-k-closest-elements) |
 | [1127-last-stone-weight](https://github.com/Arka056/DSArena/tree/master/1127-last-stone-weight) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Arka056/DSArena/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2023-design-movie-rental-system](https://github.com/Arka056/DSArena/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Arka056/DSArena/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Arka056/DSArena/tree/master/3678-design-task-manager) |
