@@ -225,6 +225,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Arka056/DSArena/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/Arka056/DSArena/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Arka056/DSArena/tree/master/2050-count-good-numbers) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Arka056/DSArena/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Arka056/DSArena/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2722-prime-in-diagonal](https://github.com/Arka056/DSArena/tree/master/2722-prime-in-diagonal) |
 | [3462-vowels-game-in-a-string](https://github.com/Arka056/DSArena/tree/master/3462-vowels-game-in-a-string) |
@@ -575,6 +576,7 @@ A repository dedicated to mastering my Data Structures and Algorithms skills.
 | [0682-baseball-game](https://github.com/Arka056/DSArena/tree/master/0682-baseball-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arka056/DSArena/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arka056/DSArena/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Arka056/DSArena/tree/master/2288-count-operations-to-obtain-zero) |
 | [2886-faulty-keyboard](https://github.com/Arka056/DSArena/tree/master/2886-faulty-keyboard) |
 | [3811-reverse-degree-of-a-string](https://github.com/Arka056/DSArena/tree/master/3811-reverse-degree-of-a-string) |
 ## Matrix
